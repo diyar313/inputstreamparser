@@ -1,2 +1,1 @@
-Input Stream Parser
- The Python file containing the parser is in "inputstreamparser". The file can be run with any of the ".in" files as an argument. The parser will be able to extract and output the messages from the input stream.
+The Python file containing the parser is in "inputstreamparser". The file can be run with any of the ".in" files as an argument. The parser will be able to extract and output the messages from the input stream.
